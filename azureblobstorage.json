@@ -1,0 +1,7 @@
+﻿{
+  "Name": "Azure Table Storage",
+  "RequestType": "POST",
+  "RequestURL": "http://127.0.0.1:10000/devstoreaccount1/mycontainer/myblob",
+  "FileFormName": "f",
+  "ResponseType": "Text"
+}
